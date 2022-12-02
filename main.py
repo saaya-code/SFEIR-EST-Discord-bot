@@ -19,7 +19,7 @@ async def on_ready():
 
 @bot.command()
 async def change(ctx):
-    
+    pass
 
 bot.run(TOKEN)
 
